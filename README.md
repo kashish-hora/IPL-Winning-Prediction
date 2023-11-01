@@ -1,0 +1,2 @@
+# IPL-Winning-Prediction
+IPL match predictor is a ML based prediction approach where the data sets and previous stats are trained in all dimensions covering all important factors such as: Toss, Home Ground, Captains, Favourite Players, Opposition Battle, Previous Stats etc, with each factor having different strength with the help of KNIME Tool and with the added intelligence of Naive Bayes network and Eulers strength calculation formula. 
